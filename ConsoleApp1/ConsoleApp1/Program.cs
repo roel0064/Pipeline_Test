@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("We changed the console text");
+            Console.WriteLine("ff stuk maken");
         }
     }
 }
